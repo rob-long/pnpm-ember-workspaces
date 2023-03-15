@@ -3,7 +3,6 @@
 # compiled output
 /dist/
 /tmp/
-/host/dist/*
 
 # dependencies
 /bower_components/
@@ -20,7 +19,6 @@
 /npm-debug.log*
 /testem.log
 /yarn-error.log
-/pnpm-lock.yaml
 
 # ember-try
 /.node_modules.ember-try/
